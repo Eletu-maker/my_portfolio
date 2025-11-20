@@ -32,7 +32,7 @@ const Footer = () => {
           </a>
           
           <a
-            href="https://wa.me/2347058705863"
+            href="https://wa.me/2349134969393"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#14B8A6] transition"
