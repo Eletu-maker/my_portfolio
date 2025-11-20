@@ -1,0 +1,44 @@
+import { HiOutlineMail } from "react-icons/hi";
+import { FaGithub, FaLinkedin, FaTwitter, FaInstagram, FaWhatsapp, FaFacebook } from "react-icons/fa";
+
+const SocialMedialHandle = () => {
+  return (
+    <div className="flex gap-6 text-white text-2xl justify-center md:justify-normal">
+
+      <a
+        href="https://mail.google.com/mail/?view=cm&fs=1&to=Usmaneletu2@gmail.com" target="_blank" 
+        rel="noopener noreferrer">
+        <HiOutlineMail className="hover:text-blue-400 transition" />
+      </a>
+
+      <a
+        href="https://github.com/Eletu-maker" 
+        target="_blank" 
+        rel="noopener noreferrer">
+        <FaGithub className="hover:text-gray-300 transition" />
+      </a>
+
+      <a
+        href="https://www.linkedin.com/in/usman-eletu-236b66313" 
+        target="_blank" 
+        rel="noopener noreferrer">
+        <FaLinkedin className="hover:text-blue-500 transition" />
+      </a>
+
+     
+   
+
+      <a
+        href="https://wa.me/2349134969393"
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+        <FaWhatsapp className="hover:text-green-500 transition text-2xl" />
+       </a>
+
+        
+    </div>
+  );
+};
+
+export default SocialMedialHandle
