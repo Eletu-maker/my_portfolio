@@ -23,28 +23,22 @@ export const ANIMATION_VARIANTS = {
 export const SOCIAL_LINKS = [
   {
     name: "GitHub",
-    url: "https://github.com/NicholasIchukwuAgbo001",
+    url: "https://github.com/Eletu-maker" ,
   },
   {
     name: "LinkedIn",
-    url: "https://www.linkedin.com/in/ichukwu-nicholas-agbo-a43946363",
+    url: "https://www.linkedin.com/in/usman-eletu-236b66313",
   },
-  {
-    name: "Twitter",
-    url: "https://x.com/AgboIchukw36207",
-  },
+  
   {
     name: "Email",
-    url: "mailto:ichukwunicholasagbo@email.com",
+    url: "https://mail.google.com/mail/?view=cm&fs=1&to=Usmaneletu2@gmail.com",
   },
   {
     name: "WhatsApp",
-    url: "https://wa.me/2347058705863",
-  },
-  {
-    name: "Facebook",
-    url: "https://www.facebook.com/profile.php?id=61579155453621",
-  },
+    url: "https://wa.me/2349134969393",
+  }
+ 
 ];
 
 export const PROJECTS = [
@@ -95,16 +89,14 @@ export const SKILLS = {
     { name: "JavaScript", level: 90, color: "bg-amber-500" },
     { name: "Framer Motion", level: 80, color: "bg-rose-400" },
     { name: "React Native", level: 75, color: "bg-indigo-600" },
-    { name: "Flutter", level: 65, color: "bg-blue-400" },
+    
   ],
   backend: [
     { name: "Node.js", level: 90, color: "bg-[#14B8A6]" },
     { name: "Java", level: 85, color: "bg-[#0F172A]" },
     { name: "Python", level: 65, color: "bg-[#0EA5E9]" },
-    { name: "Dart", level: 65, color: "bg-[#0F172A]" },
-    { name: "GraphQL", level: 50, color: "bg-[#14B8A6]" },
     { name: "REST APIs", level: 85, color: "bg-[#0EA5E9]" },
-    { name: "Go", level: 65, color: "bg-[#0F172A]" },
+    
   ],
   database: [
     { name: "MongoDB", level: 100, color: "bg-[#14B8A6]" },

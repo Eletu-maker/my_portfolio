@@ -2,7 +2,7 @@ const TimeLine = () => {
   const timelineItems = [
     {
       year: "2018 - 2023",
-      title: "Studying at an University",
+      title: "Studied at an University",
       taught: "Lagos State University",
       description:
         "Bachelor degree on Transport planning and policy.",
