@@ -12,8 +12,8 @@ const sections = [
     component: (
       <div className="flex justify-center py-8">
         <motion.a
-          href="/Usman Eletu frontend cv.pdf"
-          download="Usman Eletu frontend cv.pdf"
+          href="/RESUME.pdf"
+          download="RESUME.pdf"
           className="relative overflow-hidden bg-[#4F46E5] text-white px-6 py-3 rounded-full font-medium
                     before:absolute before:inset-0 before:bg-[#4F46E5] before:-translate-x-full
                     before:transition-transform before:duration-500 hover:before:translate-x-0"

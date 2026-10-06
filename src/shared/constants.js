@@ -42,7 +42,14 @@ export const SOCIAL_LINKS = [
 ];
 
 export const PROJECTS = [
-  
+  {
+    title: "Dentline Clinic Platform",
+    description:
+      "Full-stack clinic management system serving 200+ patients and processing 400+ appointments. Built from scratch with Next.js, Spring Boot, and PostgreSQL — featuring a custom SVG FDI tooth chart, JWT auth with silent refresh and role-based access, GDPR-compliant analytics, and Cloudinary media optimization for Nigerian mobile networks.",
+    imageUrl: "/dentline.png",
+    tags: ["Next.js", "Spring Boot", "PostgreSQL", "JWT", "Docker"],
+    demoLink: "https://www.dentlineclinic.com/",
+  },
   {
     title: "Credit wise Nigeria",
     description:
